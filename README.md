@@ -11,7 +11,7 @@ This is a secure and interactive password generator built with Python. It allows
 
 ## 🚀 How to Run
 
-git clone 
+git clone https://github.com/Oli-cpu815/safe_password_generator.git
 cd safe_password_generator
 sudo chmod +x safe_password_generator.py
 python3 safe_password_generator.py
