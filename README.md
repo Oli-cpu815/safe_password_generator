@@ -1,4 +1,4 @@
-# 🔐 Safe Password Generator
+## 🔐 Safe Password Generator
 
 This is a secure and interactive password generator built with Python. It allows you to generate strong and customizable passwords using a mix of uppercase, lowercase, digits, and symbols.
 
@@ -21,8 +21,7 @@ This is a secure and interactive password generator built with Python. It allows
 4: python3 safe_password_generator.py
 
 
-
-💡 Example Output
+##💡 Example Output
 
 Enter Password Length You Want (e.g.4,6,8): 12
 
