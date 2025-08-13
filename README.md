@@ -11,13 +11,14 @@ This is a secure and interactive password generator built with Python. It allows
 
 ## 🚀 How to Run
 
-git clone https://github.com/Oli-cpu815/safe_password_generator.git
+1: git clone https://github.com/Oli-cpu815/safe_password_generator.git
 
-cd safe_password_generator
+2: cd safe_password_generator
 
-sudo chmod +x safe_password_generator.py
+3: sudo chmod +x safe_password_generator.py
 
-python3 safe_password_generator.py
+4: python3 safe_password_generator.py
+
 
 
 💡 Example Output
@@ -27,6 +28,7 @@ Include uppercase letters? (Y/n): y
 Include lowercase letters? (Y/n): y
 Include digits? (Y/n): y
 Include special characters? (Y/n): y
+
 
 ✅ Your Generated Password:
 A8$kM*e9#TxQ
