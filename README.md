@@ -8,6 +8,7 @@ This is a secure and interactive password generator built with Python. It allows
 - Choose which characters to include (uppercase, lowercase, numbers, symbols)
 - Error handling for invalid inputs
 - Randomized output every time
+  
 
 ## 🚀 How to Run
 
@@ -24,11 +25,17 @@ This is a secure and interactive password generator built with Python. It allows
 💡 Example Output
 
 Enter Password Length You Want (e.g.4,6,8): 12
+
 Include uppercase letters? (Y/n): y
+
 Include lowercase letters? (Y/n): y
+
 Include digits? (Y/n): y
+
 Include special characters? (Y/n): y
 
 
+
 ✅ Your Generated Password:
+
 A8$kM*e9#TxQ
