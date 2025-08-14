@@ -38,6 +38,6 @@ Include digits? (Y/n): y
 
 Include special characters? (Y/n): y
 
-## ✅ Your Generated Password:
+## ✅ Your Generated Password:-
 
 A8$kM*e9#TxQ
